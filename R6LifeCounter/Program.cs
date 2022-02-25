@@ -76,10 +76,6 @@ namespace R6LifeCounter
             {
                 SwitchLED(3);
             }
-            //image.SetPixel(Checkpoint75.X, Checkpoint75.Y, Color.Green);
-            //image.SetPixel(Checkpoint50.X, Checkpoint50.Y, Color.Yellow);
-            //image.SetPixel(Checkpoint25.X, Checkpoint25.Y, Color.Red);
-            //image.Save(@"C:\Programmieren\Test\Test.png");
         }
 
         static void SwitchLED(int Index)
